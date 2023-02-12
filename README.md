@@ -2,6 +2,8 @@
 
 I am a Data Analytics major at Denison University, a small liberal arts college located in Granville, OH.
 
+I have experience cleaning data, building machine learning models, and reporting findings in various real-life projects. I have included a few of my project repositories below.
+
 </br>
 
 ### Technologies & Tools
@@ -20,11 +22,16 @@ I am a Data Analytics major at Denison University, a small liberal arts college 
 
 ### Repositories
 
-
+*Collection of Projects Using Various Machine Learning Algorithms*
+</br>
 <a href="https://github.com/chejeong/coursework-data-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=coursework-data-analytics&theme=radical"/><a/>
 
+*Python Web Scraper Featuring Infinite Scroll Functionality*
+</br>
 <a href="https://github.com/chejeong/class101-python-webscrape"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=class101-python-webscrape&theme=radical"/><a/>
 
+*Research on Basketball Strategy Using Logistic Mixed Effects Regression Model*
+</br>
 <a href="https://github.com/chejeong/NBA-NCAA-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=NBA-NCAA-analytics&theme=radical"/><a/>
 
 
