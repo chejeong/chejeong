@@ -22,18 +22,17 @@ I have experience cleaning data, building machine learning models, and reporting
 
 ### Repositories
 
-*Collection of Projects Using Various Machine Learning Algorithms*
+*Collection of Various Machine Learning Coursework Projects*
 </br>
 <a href="https://github.com/chejeong/coursework-data-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=coursework-data-analytics&theme=radical"/><a/>
-
-*Python Web Scraper Featuring Infinite Scroll Functionality*
-</br>
-<a href="https://github.com/chejeong/class101-python-webscrape"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=class101-python-webscrape&theme=radical"/><a/>
 
 *Research on Basketball Strategy Using Logistic Mixed Effects Regression Model*
 </br>
 <a href="https://github.com/chejeong/NBA-NCAA-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=NBA-NCAA-analytics&theme=radical"/><a/>
-
+  
+*Python Web Scraper Featuring Infinite Scroll Functionality*
+</br>
+<a href="https://github.com/chejeong/class101-python-webscrape"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=class101-python-webscrape&theme=radical"/><a/>
 
 
 </br>
@@ -44,6 +43,7 @@ I have experience cleaning data, building machine learning models, and reporting
 - 🌎 I grew up living in 7 different countries: India, Vietnam, Malaysia, Ghana, Bulgaria, Korea, and the U.S
 - 🚶 I love traveling & backpacking! 24/193 countries and counting! :)
 - 🤿 PADI Advanced Open Water Diver for scubadiving
+- 🏅 Fan of sports and activities
 
 
 </br>
