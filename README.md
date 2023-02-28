@@ -2,7 +2,7 @@
 
 I am a Data Analytics major at Denison University, a small liberal arts college located in Granville, OH.
 
-I have experience cleaning data, building machine learning models, and reporting findings in various real-life projects. I have included a few of my project repositories below.
+My academic background focuses on transforming data, building models, and analyzing results to derive data-driven insights, and to communicate those findings via papers and presentations. I have included a few of my project repositories below.
 
 </br>
 
