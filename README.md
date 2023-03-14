@@ -43,7 +43,7 @@ My academic background focuses on transforming data, building models, and analyz
 - 🌎 I grew up living in 7 different countries: India, Vietnam, Malaysia, Ghana, Bulgaria, Korea, and the U.S
 - 🚶 I love traveling & backpacking! 24/193 countries and counting! :)
 - 🤿 PADI Advanced Open Water Diver for scubadiving
-- 🏅 Fan of sports and activities
+- 🧭 Enjoy exploring new things (i.e self-studied Spanish and guitar)
 
 
 </br>
