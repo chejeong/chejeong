@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Analytics major at Denison University, a small liberal arts college located in Granville, OH.
+I hold a Bachelor's degree in Data Analytics.
 
 My academic background focuses on transforming data, building models, and analyzing results to derive data-driven insights, and to communicate those findings via papers and presentations. I have included a few of my project repositories below.
 
@@ -22,13 +22,17 @@ My academic background focuses on transforming data, building models, and analyz
 
 ### Repositories
 
+*Research on Basketball Strategy Using Logistic Mixed Effects Regression Model*
+</br>
+Won Third Place on Undergraduate Statistics Research Project Competition hosted by the American Statistical Association
+</br>
+<a href="https://github.com/chejeong/NBA-NCAA-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=NBA-NCAA-analytics&theme=radical"/><a/>
+</br>
+
 *Collection of Various Machine Learning Coursework Projects*
 </br>
 <a href="https://github.com/chejeong/coursework-data-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=coursework-data-analytics&theme=radical"/><a/>
 
-*Research on Basketball Strategy Using Logistic Mixed Effects Regression Model*
-</br>
-<a href="https://github.com/chejeong/NBA-NCAA-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=NBA-NCAA-analytics&theme=radical"/><a/>
   
 *Python Web Scraper Featuring Infinite Scroll Functionality*
 </br>
