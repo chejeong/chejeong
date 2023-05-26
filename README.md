@@ -24,7 +24,8 @@ My academic background focuses on transforming data, building models, and analyz
 
 *Research on Basketball Strategy Using Logistic Mixed Effects Regression Model*
 </br>
-Won Third Place on Undergraduate Statistics Research Project Competition hosted by the American Statistical Association
+Won Third Place on Undergraduate Statistics Research Project Competition (USRESP) hosted by the American Statistical Association.</br>
+Paper available at USRESP <a href="https://www.causeweb.org/usproc/usresp/2022/fall/winners">website<a/>
 </br>
 <a href="https://github.com/chejeong/NBA-NCAA-analytics"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chejeong&repo=NBA-NCAA-analytics&theme=radical"/><a/>
 </br>
