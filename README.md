@@ -43,13 +43,6 @@ Paper available at USRESP <a href="https://www.causeweb.org/usproc/usresp/2022/f
 </br>
 
 
-### About Me
-
-- 🌎 I grew up living in 7 different countries: India, Vietnam, Malaysia, Ghana, Bulgaria, Korea, and the U.S
-- 🚶 I love traveling & backpacking! 24/193 countries and counting! :)
-- 🤿 PADI Advanced Open Water Diver for scubadiving
-- 🧭 Enjoy exploring new things (i.e self-studied Spanish and guitar)
-
 
 </br>
 
